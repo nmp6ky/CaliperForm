@@ -1,0 +1,3 @@
+# Command to Run Local Page
+cd C:\Users\Parke\tin\fluent-app
+npm run dev
