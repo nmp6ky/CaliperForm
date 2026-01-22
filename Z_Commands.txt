@@ -1,3 +1,9 @@
 # Command to Run Local Page
 cd C:\Users\Parke\tin\fluent-app
 npm run dev
+
+# Command to Push to Git
+cd C:\Users\Parke\tin\fluent-app
+git add .
+git commit -m "Update"
+git push
